@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">A software engineer from Spain</h3>
 
-<!--
-**alberdg/alberdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development (NodeJs, TypeScript)
+- Frontend web development (React.js)
+- Cloud Architecture (AWS)
+- Design Patterns
+- Musician
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watching football
+- Playing music
+- Sports
+- Spending time with my family
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current projects
+Currently creating a course for developers to rocket their Software design skills (side project)
+
+## 📚 Learning
+- Python
