@@ -6,7 +6,6 @@
 - Frontend web development (React.js)
 - Cloud Architecture (AWS)
 - Design Patterns
-- Musician
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
