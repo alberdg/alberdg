@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Spain</h3>
 
 ## 💬 Ask me about
-- Backend web development (NodeJs, TypeScript)
+- Backend development (NodeJs, TypeScript)
 - Frontend web development (React.js)
 - Cloud Architecture (AWS)
 - Design Patterns
